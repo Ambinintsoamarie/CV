@@ -1,0 +1,33 @@
+.page{
+	width:780px;
+	margin:auto;
+	font-family:'Source sans Pro' ,  Times New Roman;
+	font-size:16px;
+}
+
+.infophoto{
+	height:250px;
+}
+
+.info{
+	float:left;
+}
+
+.photo{
+	float:right;
+}
+
+.section{
+	margin-bottom:70px;
+}
+
+.sec-gauche{
+	float:left;
+	font-weight:bold;
+	font-size:15px;
+}
+
+.sec-droite{
+	margin-left:100px;
+}
+
